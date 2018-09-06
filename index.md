@@ -2,11 +2,6 @@
 
 Sur mon nouveau site
 
-***
-{{site.url}}
-
-***
-
 <ul>
   {% for post in site.posts %}
     <li>
